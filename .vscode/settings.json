@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "glad.c": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\LearnOpenglForVscode\\output",
+            "binaryPath": "d:\\LearnOpenglForVscode\\output\\main.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "e:\\Opengl_github\\CG_CW2\\CG_CW2\\output",
+            "binaryPath": "e:\\Opengl_github\\CG_CW2\\CG_CW2\\output\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
